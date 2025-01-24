@@ -18,3 +18,6 @@ The project is created using:
 * Sqlite3
 * Pandas
 * Plotly
+
+## Link to Video Explanation
+https://youtu.be/JyT5ts8wP1M?si=9tBL--ZNPDIC1VBa
